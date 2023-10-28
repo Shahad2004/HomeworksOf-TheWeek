@@ -1,0 +1,22 @@
+
+.continent-button {
+    font-size: 18px;
+    padding: 10px 20px;
+    transition: background-color 0.3s;
+  }
+  
+  .continent-button:hover {
+    background-color: #2ecc71; /* A green color for hover effect */
+  }
+  
+  .city-item {
+    font-size: 18px;
+    padding: 10px;
+    transition: background-color 0.3s;
+    cursor: pointer;
+  }
+  
+  .city-item:hover {
+    background-color: #f39c12; /* An orange color for hover effect */
+  }
+  
